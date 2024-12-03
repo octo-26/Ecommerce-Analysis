@@ -1,0 +1,5 @@
+Python==3.12.7
+Pandas==2.1.4
+Geopandas==1.0.1
+
+#File World is additional installed to present map visual with geopandas library. It can be installed in 'https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/110m_cultural.zip'
