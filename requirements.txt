@@ -1,5 +1,5 @@
-Python==3.12.7
-Pandas==2.1.4
-Geopandas==1.0.1
+pip install pandas==2.1.4
+pip install geopandas==1.0.1
 
-#File World is additional installed to present map visual with geopandas library. It can be installed in 'https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/110m_cultural.zip'
+#File 'World' is additional installed to present map visual in question 2 with geopandas library. It can be installed in 'https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/110m_cultural.zip' then adjust path correspond to show the world map.
+
